@@ -1,0 +1,15 @@
+
+   "channel": "ivr",
+   "brand": "novopen echo",
+   "surveys": [{"key": "us-resident", "value": "yes" }],
+   "consents": [
+    	{ "type":"email-communication", "signedDate":"2019-05-20T09:08:08"}
+    ],
+   "attestations": [
+         { "type": "insurance", "signedDate": "2019-05-20T09:08:08", "possesses": false, "insuranceTypes": [ "government" ] },
+         { "type": "insurance", "signedDate": "2019-05-20T09:08:08", "possesses": true, "insuranceTypes": [ "commercial" ] },
+      	 { "type": "program-acceptance", "signedDate": "2019-05-20T09:08:08" },
+      	 { "type": "resident", "countryCode":"US", "signedDate": "2019-05-20T09:08:08" }
+           { "type": "age", "signedDate": "2019-05-20T09:08:08" }
+   ]
+}

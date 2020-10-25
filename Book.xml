@@ -1,0 +1,10 @@
+<!DOCTYPE Book SYSTEM "C:\Users\ZEESHAN ALI\Documents\Zeeshan Ali\Book.dtd"></>
+<Book>
+<book>
+<bookName>Core Java</bookName>
+<!--<title>BlackBook</title>-->
+<price>450</price>
+<author>ajmes</author>
+<author>ames</author>
+<publication>BlackBook Publication</publication>
+</book></Book>

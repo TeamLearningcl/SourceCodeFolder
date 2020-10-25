@@ -1,0 +1,6 @@
+<!DOCTYPE employee SYSTEM "C:\Users\ZEESHAN ALI\Documents\Zeeshan Ali\EMPLOYEE.dtd">
+<employee>
+<empName>Ali</empName>
+<empSal>100000</empSal>
+<empNo>501</empNo>
+</employee>
